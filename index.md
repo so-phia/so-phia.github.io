@@ -11,3 +11,5 @@ Hermine ist mein Lieblingscharakter der Harry-Potter-Reihe. Ihr voller Name ist 
 * sensibel
 * humorvoll
 * manchmal dickköpfig
+
+>Just because you have the emotional range of a teaspoon doesn't mean we all have!
